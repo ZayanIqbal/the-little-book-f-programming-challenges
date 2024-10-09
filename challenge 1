@@ -1,0 +1,5 @@
+#challenge 1 
+Joke = input ("do you want a joke , its so funny you will die laughing!")
+print("What red and bad for your teeth?")
+Joke = input("")
+print("\033[1;31;40m A brick! \033")

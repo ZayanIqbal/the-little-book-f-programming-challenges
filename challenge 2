@@ -1,0 +1,5 @@
+'challenge 2
+width = int(input("what is the width of the rectangle?"))
+length = int(input("what is the length of the rectangle?"))
+height = int(input("what is the height of your rectangle?"))
+print("Area is ",length * width *height)

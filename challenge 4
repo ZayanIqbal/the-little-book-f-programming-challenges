@@ -1,0 +1,4 @@
+#challenge 4
+speed = int(input("How fast was your car going?"))
+time = int(input("How much time did it take?"))  
+print("The distance is equal to", speed * time,"metres")
